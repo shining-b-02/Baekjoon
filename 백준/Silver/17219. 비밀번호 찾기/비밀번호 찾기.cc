@@ -1,10 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-bool compare(const pair<string, int>& a, const pair<string, int>& b){
-    return a.second < b.second;
-}
-
 int main(){
     ios::sync_with_stdio(false);cin.tie(0);
 
